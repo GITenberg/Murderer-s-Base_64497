@@ -1,0 +1,31 @@
+_repo: Murderer-s-Base_64497
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Meilink
+    gutenberg_agent_id: '52919'
+    url: http://www.gutenberg.org/2009/agents/52919
+creator:
+  author:
+    agent_name: Brittain, William J.
+    gutenberg_agent_id: '52616'
+    url: http://www.gutenberg.org/2009/agents/52616
+description: ''
+gutenberg_issued: '2021-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64497'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mines and mineral resources -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Asteroids -- Fiction'
+- !lcsh 'Attempted murder -- Fiction'
+- !lcsh 'Short stories'
+- GITenberg
+title: Murderer's Base
+url: http://www.gutenberg.org/ebooks/64497
