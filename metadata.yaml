@@ -5,12 +5,17 @@ contributor:
     agent_name: Meilink
     gutenberg_agent_id: '52919'
     url: http://www.gutenberg.org/2009/agents/52919
+covers:
+- cover_type: archival
+  image_path: 64497-h/images/cover.jpg
 creator:
   author:
     agent_name: Brittain, William J.
     gutenberg_agent_id: '52616'
     url: http://www.gutenberg.org/2009/agents/52616
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64497#Murderer-s-Base
 gutenberg_issued: '2021-02-08'
 gutenberg_type: Text
 identifiers:
